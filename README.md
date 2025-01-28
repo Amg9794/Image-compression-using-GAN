@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Amg9794/Image-compression-using-GAN">
-    <img src="docs/readme/gan.png" alt="Logo" width="300" height="200">
+    <img src="https://github.com/Amg9794/Image-compression-using-GAN/blob/main/gan.png" alt="Logo" width="300" height="200">
   </a>
   <h3 align="center">Generative Image Compression</h3>
   <p align="center">
