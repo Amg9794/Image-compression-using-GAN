@@ -74,7 +74,7 @@ We evaluate the models on the Structural Similarity Index (SSIM) and Peak Signal
 
 Figure below compares the image quality of reconstruction for a sample image for different schemes.
 
-![Transformer](./docs/readme/results.jpg)
+![Transformer](https://github.com/Amg9794/Image-compression-using-GAN/blob/main/results.jpg)
 
 
 
