@@ -54,7 +54,7 @@ This calculates the average PSNR and SSIM values across different runs, and gene
 
 The architecture of the model is shown below. We freeze the GAN model and optimize for the best latent vector using gradient descent.
 
-![Transformer](./docs/readme/model.jpg)
+![Transformer](https://github.com/Amg9794/Image-compression-using-GAN/blob/main/model.jpg)
 
 
 
