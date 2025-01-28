@@ -10,8 +10,6 @@
   <h3 align="center">Generative Image Compression</h3>
   <p align="center">
     Image Compression using GANs
-    <br />
-    <a href=https://github.com/Amg9794/Image-compression-using-GAN><strong>Explore the repository»</strong></a>
   </p>
 
 </p>
